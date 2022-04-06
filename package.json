@@ -1,0 +1,25 @@
+{
+  "name": "portfolio_2",
+  "version": "1.0.0",
+  "description": "Project and Portfolio 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillsapTatiana-FS/Portfolio_2.git"
+  },
+  "keywords": [
+    "Project",
+    "and",
+    "Portfolio",
+    "2"
+  ],
+  "author": "Tatiana Millsap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MillsapTatiana-FS/Portfolio_2/issues"
+  },
+  "homepage": "https://github.com/MillsapTatiana-FS/Portfolio_2#readme"
+}
